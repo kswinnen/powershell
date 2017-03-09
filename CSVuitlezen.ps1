@@ -1,0 +1,1 @@
+﻿Import-Csv C:\Install\inputdata.csv -header WEERGAVENAAM,TYPECONTACTPERSOON,ADRES |foreach {New-MailContact -Name $_.WEERGAVENAAM -DisplayName $_.WEERGAVENAAM -ExternalEmailAddress $_.ADRES}

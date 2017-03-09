@@ -1,0 +1,1 @@
+﻿Add-RecipientPermission info -AccessRights SendAs -Trustee tb

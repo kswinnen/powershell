@@ -1,0 +1,1 @@
+﻿Set-MsolUserPassword -UserPrincipalName vincent@brazz.eu -NewPassword '$Brazz_2015' -ForceChangePassword $false

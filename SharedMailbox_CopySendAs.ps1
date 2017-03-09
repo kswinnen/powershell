@@ -1,0 +1,1 @@
+﻿Set-Mailbox order* -MessageCopyForSentAsEnabled $true

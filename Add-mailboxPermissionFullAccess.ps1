@@ -1,0 +1,1 @@
+﻿Add-MailboxPermission tb -User info -AccessRights FullAccess -InheritanceType All
